@@ -12,3 +12,5 @@ Clone coding of Chrome app, 'Momentum'
   Also save coordinates in the local storage.
 5. clock.js
   * Get some time informations from the 'Date' object, and show them.
+
+Only considered google chrome..
