@@ -13,4 +13,4 @@ Clone coding of Chrome app, 'Momentum'
 5. clock.js
   * Get some time informations from the 'Date' object, and show them.
 
-Only considered google chrome..
+######Only considered google chrome.
