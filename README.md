@@ -14,3 +14,4 @@ Clone coding of Chrome app, 'Momentum'
   * Get some time informations from the 'Date' object, and show them.
 
 ###### Only considered google chrome.
+with the lecture of Nomad coders
